@@ -1,6 +1,4 @@
-# Neural BEC
-
-Machine Learning for simulating BEC systems
+# Bayesian Optimization of Bose-Einstein Condensate
 
 
 ## Data Generation
